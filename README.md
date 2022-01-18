@@ -4,7 +4,8 @@
 i'm Ivan from Indonesia, and i do content on design and development, I really enjoy learning languages and frameworks like bootstrap, As well as work in WordPress.
 
 ## Skills and Experience
-* 💻 HTML / CSS / JS 
+* 💻 HTML / CSS / JS
+* ⚡️ PHP Native 
 * 🤖 Bootstrap 5 
 
 
