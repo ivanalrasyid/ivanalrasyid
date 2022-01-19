@@ -5,7 +5,6 @@ i'm Ivan from Indonesia, and i do content on design and development, I really en
 
 ## Skills and Experience
 * 💻 HTML / CSS / JS
-* ⚡️ PHP Native 
 * 🤖 Bootstrap 5 
 
 
