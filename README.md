@@ -5,7 +5,7 @@ i'm Ivan from Indonesia, and i do content on design and development, I really en
 
 ## Skills and Experience
 * 💻 HTML / CSS / Java Script
-* ⚛️ React / VUE 
+* ⚛️ React / Vue
 * 🤖 Bootstrap 5 / React Bootstrap
 
 
